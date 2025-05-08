@@ -1,0 +1,7 @@
+- xml관련.py : expand, left, right, shrink xml 자동라벨링 추가한거
+-> 'Auto Label XML 조정' 이랑 다르게 하나의 xml 파일에 4가지 라벨링이 자동 생성
+
+- xml관련2.py : 시각화
+
+- xml관련3.py : 같은 이름, 같은 크기 복사 6개로 따기 = 총 7개
+> 'Auto Label XML 조정' 이랑 다르게 하나의 xml 파일에 7가지 라벨링이 자동 생성
